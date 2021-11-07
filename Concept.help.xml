@@ -1,0 +1,27 @@
+<Nodes version="2">
+  <NodeInfo name="Fact105" type="Fact">
+    <Label>
+      <Text>Fact105</Text>
+      <Font>
+        <Name>Microsoft Sans Serif</Name>
+        <Style>Regular</Style>
+        <Size>9</Size>
+      </Font>
+    </Label>
+    <FillColorFrom>-7876885</FillColorFrom>
+    <FillColorTo>-7876885</FillColorTo>
+    <Border>
+      <Color>-16777216</Color>
+      <Width>0.3</Width>
+    </Border>
+    <Location>
+      <X>91.83749</X>
+      <Y>75.67082</Y>
+    </Location>
+    <Size>
+      <Width>30</Width>
+      <Height>30</Height>
+    </Size>
+    <Description></Description>
+  </NodeInfo>
+</Nodes>
