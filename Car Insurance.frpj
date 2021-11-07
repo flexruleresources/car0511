@@ -36,7 +36,7 @@
     </Builders>
   </ProjectProviders>
   <Debugger>
-    <Runtime path="C:\Users\Subhashi\Documents\.flexrule\9.0.121" />
+    <Runtime path="C:\Users\Subhashi\Documents\.flexrule\9.0.122" />
     <License path="" />
   </Debugger>
   <TreeDocument>
