@@ -1,0 +1,23 @@
+<Natural name="rule name">
+  <Dsl>
+/* 
+	For more information on creating a Natural Language visit https://resource.flexrule.com/knowledge-base/natural-language/
+*/
+  
+
+
+when a logic name
+ etsetsetsetes
+then
+	/*
+		What happens when your conditions are met?
+	*/
+otherwise
+	/*
+		If your conditions do not meet the defined criteria, then what?
+	*/
+end
+
+
+</Dsl>
+</Natural>
