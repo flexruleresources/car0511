@@ -17,6 +17,10 @@ Premium</Text>
         <X>270.3958</X>
         <Y>32.8</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -51,6 +55,10 @@ Premium</Text>
         <X>294.283</X>
         <Y>95.49372</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -85,6 +93,10 @@ Premium</Text>
         <X>268.1947</X>
         <Y>132.3647</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -119,6 +131,10 @@ Premium</Text>
         <X>309.3193</X>
         <Y>129.8584</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -153,6 +169,10 @@ Premium</Text>
         <X>344.5805</X>
         <Y>78.65415</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -187,6 +207,10 @@ Premium</Text>
         <X>294.343</X>
         <Y>56.16458</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -218,9 +242,13 @@ Premium</Text>
         <Height>10</Height>
       </Size>
       <Location>
-        <X>254.7095</X>
-        <Y>54.84166</Y>
+        <X>203.3804</X>
+        <Y>37.64375</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -231,8 +259,8 @@ Premium</Text>
       <Width>0</Width>
     </Border>
     <Location>
-      <X>253.9554</X>
-      <Y>54.84166</Y>
+      <X>202.6262</X>
+      <Y>37.64375</Y>
     </Location>
     <Size>
       <Width>21.5083</Width>
@@ -255,6 +283,10 @@ Premium</Text>
         <X>215.0492</X>
         <Y>82.88747</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -290,6 +322,10 @@ List</Text>
         <X>227.3189</X>
         <Y>114.1563</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -324,6 +360,10 @@ List</Text>
         <X>270.0169</X>
         <Y>77.06666</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -640,12 +680,12 @@ List</Text>
       <Width>0</Width>
     </Border>
     <Location>
-      <X>264.7095</X>
-      <Y>42.80001</Y>
+      <X>224.1345</X>
+      <Y>38.50532</Y>
     </Location>
     <Size>
-      <Width>15.68631</Width>
-      <Height>12.04165</Height>
+      <Width>46.26128</Width>
+      <Height>3.255436</Height>
     </Size>
     <Shape>Polyline</Shape>
     <SegmentCount>1</SegmentCount>
@@ -657,20 +697,20 @@ List</Text>
     <Pen>0/#FF000000/0/0/0//0/0/10/</Pen>
     <Points>
       <Point>
-        <X>264.7095</X>
-        <Y>54.84166</Y>
+        <X>224.1345</X>
+        <Y>41.76076</Y>
       </Point>
       <Point>
-        <X>280.3958</X>
-        <Y>42.80001</Y>
+        <X>270.3958</X>
+        <Y>38.50532</Y>
       </Point>
       <Start>
-        <X>264.7095</X>
-        <Y>54.84166</Y>
+        <X>224.1345</X>
+        <Y>41.76076</Y>
       </Start>
       <End>
-        <X>280.3958</X>
-        <Y>42.80001</Y>
+        <X>270.3958</X>
+        <Y>38.50532</Y>
       </End>
     </Points>
   </NodeInfo>
@@ -740,12 +780,12 @@ List</Text>
       <Width>0</Width>
     </Border>
     <Location>
-      <X>235.0492</X>
-      <Y>59.70625</Y>
+      <X>214.6756</X>
+      <Y>47.37291</Y>
     </Location>
     <Size>
-      <Width>18.9062</Width>
-      <Height>26.59372</Height>
+      <Width>9.044342</Width>
+      <Height>33.93959</Height>
     </Size>
     <Shape>Polyline</Shape>
     <SegmentCount>1</SegmentCount>
@@ -757,20 +797,20 @@ List</Text>
     <Pen>0/#FF000000/0/0/0//0/0/10/</Pen>
     <Points>
       <Point>
-        <X>235.0492</X>
-        <Y>86.29997</Y>
+        <X>223.72</X>
+        <Y>81.3125</Y>
       </Point>
       <Point>
-        <X>253.9554</X>
-        <Y>59.70625</Y>
+        <X>214.6756</X>
+        <Y>47.37291</Y>
       </Point>
       <Start>
-        <X>235.0492</X>
-        <Y>86.29997</Y>
+        <X>223.72</X>
+        <Y>81.3125</Y>
       </Start>
       <End>
-        <X>253.9554</X>
-        <Y>59.70625</Y>
+        <X>214.6756</X>
+        <Y>47.37291</Y>
       </End>
     </Points>
   </NodeInfo>
@@ -936,7 +976,7 @@ List</Text>
       </End>
     </Points>
   </NodeInfo>
-  <NodeInfo name="Note193" type="Note">
+  <NodeInfo name="Note181" type="Note">
     <Label>
       <Text>Car Insurance 
 
@@ -956,6 +996,10 @@ Premium Calculation Decision</Text>
         <X>176.3446</X>
         <Y>77.95016</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
