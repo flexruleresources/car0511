@@ -51,8 +51,8 @@
         <Height>10</Height>
       </Size>
       <Location>
-        <X>70.03574</X>
-        <Y>63.80728</Y>
+        <X>70.8295</X>
+        <Y>55.86978</Y>
       </Location>
       <Alignment>
         <Vertical>Center</Vertical>
@@ -68,8 +68,8 @@
       <Width>0</Width>
     </Border>
     <Location>
-      <X>67.29095</X>
-      <Y>63.80728</Y>
+      <X>68.0847</X>
+      <Y>55.86978</Y>
     </Location>
     <Size>
       <Width>25.48959</Width>
@@ -359,11 +359,11 @@
     </Border>
     <Location>
       <X>39.40138</X>
-      <Y>70.86353</Y>
+      <Y>68.60014</Y>
     </Location>
     <Size>
-      <Width>27.88957</Width>
-      <Height>18.06534</Height>
+      <Width>28.68332</Width>
+      <Height>19.33431</Height>
     </Size>
     <Shape>Bezier</Shape>
     <SegmentCount>1</SegmentCount>
@@ -376,7 +376,7 @@
     <Points>
       <Point>
         <X>39.40138</X>
-        <Y>88.92887</Y>
+        <Y>87.93445</Y>
       </Point>
       <Point>
         <X>49.79795</X>
@@ -387,16 +387,16 @@
         <Y>74.03228</Y>
       </Point>
       <Point>
-        <X>67.29095</X>
-        <Y>70.86353</Y>
+        <X>68.0847</X>
+        <Y>68.60014</Y>
       </Point>
       <Start>
         <X>39.40138</X>
-        <Y>88.92887</Y>
+        <Y>87.93445</Y>
       </Start>
       <End>
-        <X>67.29095</X>
-        <Y>70.86353</Y>
+        <X>68.0847</X>
+        <Y>68.60014</Y>
       </End>
     </Points>
   </NodeInfo>
@@ -474,12 +474,12 @@
       <Width>0</Width>
     </Border>
     <Location>
-      <X>92.78053</X>
-      <Y>69.53436</Y>
+      <X>93.5743</X>
+      <Y>67.30363</Y>
     </Location>
     <Size>
-      <Width>19.83546</Width>
-      <Height>4.439598</Height>
+      <Width>19.0417</Width>
+      <Height>4.404152</Height>
     </Size>
     <Shape>Bezier</Shape>
     <SegmentCount>1</SegmentCount>
@@ -491,8 +491,8 @@
     <Pen>0/#FF000000/0/0/0//0/0/10/</Pen>
     <Points>
       <Point>
-        <X>92.78053</X>
-        <Y>70.86353</Y>
+        <X>93.5743</X>
+        <Y>67.30363</Y>
       </Point>
       <Point>
         <X>100.0688</X>
@@ -504,15 +504,15 @@
       </Point>
       <Point>
         <X>112.616</X>
-        <Y>73.97396</Y>
+        <Y>71.70778</Y>
       </Point>
       <Start>
-        <X>92.78053</X>
-        <Y>70.86353</Y>
+        <X>93.5743</X>
+        <Y>67.30363</Y>
       </Start>
       <End>
         <X>112.616</X>
-        <Y>73.97396</Y>
+        <Y>71.70778</Y>
       </End>
     </Points>
   </NodeInfo>
@@ -532,12 +532,12 @@
       <Width>0</Width>
     </Border>
     <Location>
-      <X>92.78053</X>
-      <Y>70.86353</Y>
+      <X>88.28563</X>
+      <Y>69.98228</Y>
     </Location>
     <Size>
-      <Width>19.66457</Width>
-      <Height>32.83757</Height>
+      <Width>24.15947</Width>
+      <Height>28.73975</Height>
     </Size>
     <Shape>Bezier</Shape>
     <SegmentCount>1</SegmentCount>
@@ -549,8 +549,8 @@
     <Pen>5/#FF000000/0/2/10/5/0//0/0/10/</Pen>
     <Points>
       <Point>
-        <X>92.78053</X>
-        <Y>70.86353</Y>
+        <X>88.28563</X>
+        <Y>69.98228</Y>
       </Point>
       <Point>
         <X>99.27502</X>
@@ -562,15 +562,15 @@
       </Point>
       <Point>
         <X>112.4451</X>
-        <Y>103.7011</Y>
+        <Y>98.72203</Y>
       </Point>
       <Start>
-        <X>92.78053</X>
-        <Y>70.86353</Y>
+        <X>88.28563</X>
+        <Y>69.98228</Y>
       </Start>
       <End>
         <X>112.4451</X>
-        <Y>103.7011</Y>
+        <Y>98.72203</Y>
       </End>
     </Points>
   </NodeInfo>
