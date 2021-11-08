@@ -1,1 +1,8 @@
-<Flow name="GenericFlow" version="1.0.0.0"><Declaration /><Nodes /></Flow>
+<Flow name="GenericFlow">
+  <Nodes>
+    <Start name="Start113">
+      <Transition name="Transition115" to="End114" />
+    </Start>
+    <End name="End114" />
+  </Nodes>
+</Flow>
