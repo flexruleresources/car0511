@@ -1,8 +1,11 @@
 <Flow name="GenericFlow">
   <Nodes>
     <Start name="Start127">
-      <Transition name="Transition129" to="End128" />
+      <Transition name="Transition129" to="Activity138" />
     </Start>
     <End name="End128" />
+    <Activity name="Activity138">
+      <Transition name="Transition140" to="End128" />
+    </Activity>
   </Nodes>
 </Flow>
