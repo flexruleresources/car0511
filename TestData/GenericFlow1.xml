@@ -1,0 +1,8 @@
+<Flow name="GenericFlow1">
+  <Nodes>
+    <Start name="Start400">
+      <Transition name="Transition402" to="End401" />
+    </Start>
+    <End name="End401" />
+  </Nodes>
+</Flow>

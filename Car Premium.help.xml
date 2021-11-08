@@ -1,22 +1,9 @@
-<Nodes version="2">
-  <NodeInfo name="Premium DRD" type="DRD" />
-  <NodeInfo name="Premium" type="Decision">
-    <Label>
-      <Text>Car
-Premium</Text>
-      <Font>
-        <Name>Microsoft Sans Serif</Name>
-        <Style>Regular</Style>
-        <Size>9</Size>
-      </Font>
-      <Size>
-        <Width>20</Width>
-        <Height>10</Height>
-      </Size>
-      <Location>
-        <X>270.3958</X>
-        <Y>32.8</Y>
-      </Location>
+=======
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -51,6 +38,13 @@ Premium</Text>
         <X>294.283</X>
         <Y>95.49372</Y>
       </Location>
+<<<<<<< HEAD
+=======
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -85,6 +79,13 @@ Premium</Text>
         <X>268.1947</X>
         <Y>132.3647</Y>
       </Location>
+<<<<<<< HEAD
+=======
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -119,6 +120,13 @@ Premium</Text>
         <X>309.3193</X>
         <Y>129.8584</Y>
       </Location>
+<<<<<<< HEAD
+=======
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -153,6 +161,13 @@ Premium</Text>
         <X>344.5805</X>
         <Y>78.65415</Y>
       </Location>
+<<<<<<< HEAD
+=======
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -187,6 +202,13 @@ Premium</Text>
         <X>294.343</X>
         <Y>56.16458</Y>
       </Location>
+<<<<<<< HEAD
+=======
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -218,9 +240,19 @@ Premium</Text>
         <Height>10</Height>
       </Size>
       <Location>
+<<<<<<< HEAD
         <X>254.7095</X>
         <Y>54.84166</Y>
       </Location>
+=======
+        <X>203.3804</X>
+        <Y>37.64375</Y>
+      </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -231,8 +263,13 @@ Premium</Text>
       <Width>0</Width>
     </Border>
     <Location>
+<<<<<<< HEAD
       <X>253.9554</X>
       <Y>54.84166</Y>
+=======
+      <X>202.6262</X>
+      <Y>37.64375</Y>
+>>>>>>> master
     </Location>
     <Size>
       <Width>21.5083</Width>
@@ -255,6 +292,13 @@ Premium</Text>
         <X>215.0492</X>
         <Y>82.88747</Y>
       </Location>
+<<<<<<< HEAD
+=======
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -290,6 +334,13 @@ List</Text>
         <X>227.3189</X>
         <Y>114.1563</Y>
       </Location>
+<<<<<<< HEAD
+=======
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -324,6 +375,13 @@ List</Text>
         <X>270.0169</X>
         <Y>77.06666</Y>
       </Location>
+<<<<<<< HEAD
+=======
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+>>>>>>> master
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -640,12 +698,21 @@ List</Text>
       <Width>0</Width>
     </Border>
     <Location>
+<<<<<<< HEAD
       <X>264.7095</X>
       <Y>42.80001</Y>
     </Location>
     <Size>
       <Width>15.68631</Width>
       <Height>12.04165</Height>
+=======
+      <X>224.1345</X>
+      <Y>38.50532</Y>
+    </Location>
+    <Size>
+      <Width>46.26128</Width>
+      <Height>3.255436</Height>
+>>>>>>> master
     </Size>
     <Shape>Polyline</Shape>
     <SegmentCount>1</SegmentCount>
@@ -657,6 +724,7 @@ List</Text>
     <Pen>0/#FF000000/0/0/0//0/0/10/</Pen>
     <Points>
       <Point>
+<<<<<<< HEAD
         <X>264.7095</X>
         <Y>54.84166</Y>
       </Point>
@@ -671,6 +739,22 @@ List</Text>
       <End>
         <X>280.3958</X>
         <Y>42.80001</Y>
+=======
+        <X>224.1345</X>
+        <Y>41.76076</Y>
+      </Point>
+      <Point>
+        <X>270.3958</X>
+        <Y>38.50532</Y>
+      </Point>
+      <Start>
+        <X>224.1345</X>
+        <Y>41.76076</Y>
+      </Start>
+      <End>
+        <X>270.3958</X>
+        <Y>38.50532</Y>
+>>>>>>> master
       </End>
     </Points>
   </NodeInfo>
@@ -740,12 +824,21 @@ List</Text>
       <Width>0</Width>
     </Border>
     <Location>
+<<<<<<< HEAD
       <X>235.0492</X>
       <Y>59.70625</Y>
     </Location>
     <Size>
       <Width>18.9062</Width>
       <Height>26.59372</Height>
+=======
+      <X>214.6756</X>
+      <Y>47.37291</Y>
+    </Location>
+    <Size>
+      <Width>9.044342</Width>
+      <Height>33.93959</Height>
+>>>>>>> master
     </Size>
     <Shape>Polyline</Shape>
     <SegmentCount>1</SegmentCount>
@@ -757,6 +850,7 @@ List</Text>
     <Pen>0/#FF000000/0/0/0//0/0/10/</Pen>
     <Points>
       <Point>
+<<<<<<< HEAD
         <X>235.0492</X>
         <Y>86.29997</Y>
       </Point>
@@ -771,6 +865,22 @@ List</Text>
       <End>
         <X>253.9554</X>
         <Y>59.70625</Y>
+=======
+        <X>223.72</X>
+        <Y>81.3125</Y>
+      </Point>
+      <Point>
+        <X>214.6756</X>
+        <Y>47.37291</Y>
+      </Point>
+      <Start>
+        <X>223.72</X>
+        <Y>81.3125</Y>
+      </Start>
+      <End>
+        <X>214.6756</X>
+        <Y>47.37291</Y>
+>>>>>>> master
       </End>
     </Points>
   </NodeInfo>
@@ -936,7 +1046,11 @@ List</Text>
       </End>
     </Points>
   </NodeInfo>
+<<<<<<< HEAD
   <NodeInfo name="Note193" type="Note">
+=======
+  <NodeInfo name="Note181" type="Note">
+>>>>>>> master
     <Label>
       <Text>Car Insurance 
 
@@ -956,22 +1070,4 @@ Premium Calculation Decision</Text>
         <X>176.3446</X>
         <Y>77.95016</Y>
       </Location>
-    </Label>
-    <Image></Image>
-    <ImageAlign>Center</ImageAlign>
-    <FillColorFrom>-32</FillColorFrom>
-    <FillColorTo>-128</FillColorTo>
-    <Border>
-      <Color>-16777216</Color>
-      <Width>0</Width>
-    </Border>
-    <Location>
-      <X>173.7743</X>
-      <Y>65.51458</Y>
-    </Location>
-    <Size>
-      <Width>30.43225</Width>
-      <Height>53.8854</Height>
-    </Size>
-  </NodeInfo>
-</Nodes>
+<<<<<<< HEAD
